@@ -1,0 +1,3 @@
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/CMakeFiles/lab01_tests.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/CMakeFiles/edit_cache.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/Users/hirito572/Desktop/School/Tusgai sedvuud/F.CSA303_lab/lab01/cpp/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
